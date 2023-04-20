@@ -1,0 +1,7 @@
+.mon-tooltip {
+    background-color: gray;
+    border: 5px solid lightgray;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+}
